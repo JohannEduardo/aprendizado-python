@@ -1,0 +1,3 @@
+venv - ambiente virtual PYTHON
+
+ambientes virtuais separados, para evitar confilitos abrimos esse ambiente virtual, instalamos a versão da biblioteca e a biblioteca que queremos e cada uma fica em um local separado das demais para não causar atrito

@@ -1,0 +1,15 @@
+pip - GERENCIADOR DE PACOTES PARA PROJETO PYTHON (FERRAMENTA)
+
+Códigos prontos que baixamos em forma de biblioteca para reaproveitar ele em um projeto.
+
+pip install taltal 
+
+pip uninstall taltal
+
+pip freeze - mostra todas os pacotes que estaos utilizando em nosso projeto
+
+pip freeze > requirements.txt
+
+requirements.txt = anotar todos os pacotes que foram utilizados, para que futuramente não tenha problemas
+
+pip instal -r requirements.txt - para baixar todas as bibliotecas de uma vez

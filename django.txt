@@ -1,0 +1,18 @@
+Framework Web - conjunto de codigo que alguem ja fez qe instala no pc e ele traz uma serie de funções prontas para utilizar em uma aplicação.
+
+MVT - Model View Template 
+
+O que ele faz : 
+
+SITES, BLOGS E REDES SOCIAIS
+
+SISTEMA WEB COMPLETOS
+
+ERPs - APIs - CRMs - PDVs
+
+
+
+
+
+
+
