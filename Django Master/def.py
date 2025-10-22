@@ -21,7 +21,7 @@ def envia_email (nome, email):
 pessoas = [
     {'nome': 'Johann', 'email': 'johann@gmail.com'},
     {'nome': 'Lucas', 'email': 'lucas@gmail.com'},
-    {'nome': 'Joana', 'email': 'joana@gmail.com'}
+    {'nome': 'Juana', 'email': 'juana@gmail.com'}
 ]
 
 for pessoa in pessoas:
