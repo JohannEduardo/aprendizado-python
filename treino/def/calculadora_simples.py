@@ -20,7 +20,7 @@ n1 = float(input('Digite um número: '))
 n2 = float(input('Digite outro número: '))
 
 
-
+#Puxando a funçao e a variavel que representa os dados
 print('Somar: ' , adicao(n1 , n2))
 print('Subtrair: ' , subtracao(n1 , n2))
 print('Multiplicar: ' , multiplicacao(n1 , n2))
