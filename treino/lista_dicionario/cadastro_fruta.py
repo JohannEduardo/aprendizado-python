@@ -30,5 +30,6 @@ while True:
 
        
     print (sacola_compras)
+
     
         
