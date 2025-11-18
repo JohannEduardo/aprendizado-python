@@ -65,7 +65,7 @@ while True:
                     if nome_antigo not in lista_aluno:
                         print('Esse nome não existe na lista')
                     else:
-                        novo_nome = input('Digite o novo nome que você deseja: ')
+                        novo_nome = input('Digite o novo nome que você des eja: ')
                         indice = lista_aluno.index(nome_antigo)
                         lista_aluno[indice] = novo_nome
                     
